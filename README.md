@@ -1,1 +1,5 @@
 # NFA-Design-Exercises
+
+1. The only question that caused me a problem was question 22. When I was making the NFA, I forgot how to implement ORs. I made an NFA for each part, but when combining them, I thought about it incorrectly. I only realized there was a problem when I was testing it with strings, and strings that should've been "reject" were instead saying "accept." After that, I looked at my notes and realized where the problem was. I quickly fixed it after that.
+2. As mentioned, all the questions went about smoothly for me until it came to question 22. I used the string "11101101," and the result I got I did not expect. When working on this, I didn't refer to my notes, just my memory, so for any exams or projects I will refer to my notes to study/double check more. I think it helps that I used the step-by-step feature whenever I got a result I did not expect to see if there is a problem with my NFA or the test string. It helps a lot.
+3. Maybe more difficult questions? There are a lot of simple questions on the list; although it helps with getting more practice with creating DFAs and NFAs, it can be a bit boring.
